@@ -1,0 +1,18 @@
+chromadb
+coloredlogs
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-groq
+langchain-ollama
+langchain-openai
+PyPDF2
+# pysqlite3-binary
+python-dotenv
+sentence-transformers
+streamlit
+tiktoken
+BeautifulSoup4
+lxml
